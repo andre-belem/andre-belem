@@ -4,6 +4,12 @@ I'm too busy today to update this file; I'm tied up on another project, but I wi
 
 see yah
 
+Half hour later...
+
+ This is just a test. I connect my VCode to this repository using the extention GitHub Repositories
+
+ Keeping the good work!
+
 <!--
 **andre-belem/andre-belem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
