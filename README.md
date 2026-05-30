@@ -1,14 +1,6 @@
 ## Hi there 👋
 
-I'm too busy today to update this file; I'm tied up on another project, but I will come back soon! 😉
-
-see yah
-
-Half hour later...
-
- This is just a test. I connect my VCode to this repository using the extention GitHub Repositories
-
- Keeping the good work!
+You are Welcome, here I'm displaying some of my projects and current work.
 
 <!--
 **andre-belem/andre-belem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
