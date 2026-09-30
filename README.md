@@ -29,4 +29,4 @@ Sou um profissional sênior com sólida bagagem na convergência entre **Hardwar
 
 ## 🌐 Conecte-se Comigo
 - **Portal Profissional:** [andre.belem.br](http://andre.belem.br)
-- **LinkedIn:** [://linkedin.com](https://linkedin.com)
+- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/andre-belem-br)
