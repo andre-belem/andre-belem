@@ -19,7 +19,7 @@ Sou um profissional sênior com sólida bagagem na convergência entre **Hardwar
 
 ## 🚀 Projetos em Destaque
 
-### 📊 [Plataforma de Telemetria Remota Industrial (ESP32 + Node.js)](http://andre.belem.br)
+### 📊 [Plataforma de Telemetria Remota Industrial (ESP32 + Node.js)](http://andre.belem.br/telemetry/telemetry.html)
 - Desenvolvimento de hardware proprietário baseado em ESP32 com proteção física de ADC para leitura de baterias de 12,6V.
 - Ingestão de dados assíncrona via MQTT com Broker Mosquitto e banco de dados MySQL.
 - Dashboard web dinâmico com renderização em tempo real utilizando a biblioteca Highcharts.
